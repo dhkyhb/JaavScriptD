@@ -1,3 +1,3 @@
 #### JavaScript学习
 
-- 这是个人的javascript提倡 学习日记.
+- 这是个人的javascript日常学习日记.
